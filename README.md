@@ -1,2 +1,8 @@
-# vmware-lab
-vmware-lab
+- **vCenter Server:** vcenter01.red.pvt  
+- **ESXi Hosts:** 6 nested ESXi servers + 1 physical host  
+- **Storage:** TrueNAS NFS storage  
+- **Domain Controller:** Windows Server AD  
+- **Networking:** VLAN-segmented environment
+- `/scripts` - PowerCLI and automation scripts  
+- `/docs` - Documentation, diagrams, and notes  
+- `/backups` - Configuration backups and exports

@@ -1,0 +1,75 @@
+```gitignore
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1xml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+backups/*.bak
+*.backup
+
+# Sensitive data (never commit passwords!)
+*.key
+*.pem
+*config.json
+*credentials*
+*password*
+
+# Large files
+*.vmdk
+*.ova
+*.ovf
+*.iso
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+```
+
+.azure/
+.config/
+.gitconfig
+.lesshst
+.ssh/
+.vivaldi_reporting_data
+3D Objects/
+AppData/
+Apps/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+JoplinBackup/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms
+NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms
+NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms
+NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+README.md
+Saved Games/
+Searches/
+Videos/
+WPS Cloud Files/
+cripts, docs, backups
+"ers$env\357\200\272USERNAMEDocuments "
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+report.csv
+report2.csv
